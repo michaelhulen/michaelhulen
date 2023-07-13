@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @michaelhulen
-- 👀 I’m interested in building apps, sustainable fashion, traveling. 
+- 👀 I’m interested in designing, building, and marketing ANYTHING apps. 
 - 🌱 I’m currently learning Swift. 
 - 💞️ I’m looking to collaborate on my company Popcloset App.
 - 📫 How to reach me popcloapp@gmail.com
