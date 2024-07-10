@@ -2,7 +2,7 @@
 - 👀 I’m interested in designing, building, and marketing ANYTHING apps. 
 - 🌱 I’m currently learning Swift. 
 - 💞️ Fate
-- 📫 How to reach me popcloapp@gmail.com
+- 📫 How to reach me: hulenmichael2@gmail.com
 
 <!---
 michaelhulen/michaelhulen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
