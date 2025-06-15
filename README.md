@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @michaelhulen
-- 👀 I’m interested in designing, building, and marketing ANYTHING apps. 
-- 🌱 I’m currently learning Swift. 
-- 💞️ Fate
-- 📫 How to reach me: hulenmichael2@gmail.com
+- 👀 I explode growth for apps and influencers
+- 💞️ Limitless Labs
+- 📫 How to reach me: https://x.com/offtherecord267
 
 <!---
 michaelhulen/michaelhulen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
